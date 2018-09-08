@@ -1,2 +1,2 @@
 # AshBot
-AshBot - Bot for Discord
+AshBot - Bot for Discord side project
